@@ -1,16 +1,15 @@
 # i_am_rich
 
-A new Flutter project.
+First flutter app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A simple app showing an image.
 
-A few resources to get you started if this is your first Flutter project:
+It includes:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- App bar
+- displaying image from local assets
+- adding app icons
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
